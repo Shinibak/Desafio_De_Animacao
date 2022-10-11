@@ -1,6 +1,6 @@
 # animated
 
-A new Flutter project.
+Projeto em Flutter com foco em estudo de práticas com animação
 
 ## Getting Started
 
